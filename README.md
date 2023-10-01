@@ -1,4 +1,5 @@
 #記事を参考にTypeScript + react + firebaseでユーザーの新規登録機能を実装
+
 参考させて頂いた記事：https://qiita.com/takahashi-yoji/items/a2a97b90a5b5e7cfc224
 
 バージョン管理の問題からか、記事通りではうまくいかなかった点の修正を行なっている。
